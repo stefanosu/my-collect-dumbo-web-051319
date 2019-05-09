@@ -1,2 +1,7 @@
-def m
+def my_collect
+  
+  
+end   
+  
+
 
